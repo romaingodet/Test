@@ -1,2 +1,6 @@
-
+#####PART 1
+fonction2
+modif main
+#######PART 2
+function1
 
