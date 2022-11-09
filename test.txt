@@ -1,5 +1,6 @@
 #####PART 1
 fonction2
+je modifie ma fonction 2
 modif main
 #######PART 2
 function1
