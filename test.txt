@@ -1,7 +1,6 @@
 #####PART 1
-dzndzidnz
+fonction2
 modif main
 #######PART 2
-sjsjsjs
-modif test
+function1
 
